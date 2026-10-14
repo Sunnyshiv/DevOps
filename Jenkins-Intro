@@ -1,0 +1,3 @@
+About Jenkins:
+Jenkins is an open-source automation server used to implement CI/CD (Continuous Integration and Continuous Delivery) in software development. It automates the repetitive parts of the software lifecycle, such as compiling code, running automated tests, building container images, and deploying applications to production servers.
+By catching bugs early through automated testing, Jenkins prevents integration issues and ensures code is always in a deployable state.
