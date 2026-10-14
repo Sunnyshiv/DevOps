@@ -3,3 +3,15 @@ Important command of linux administration
 To list items in a directory - ls
 
 Create directory -- mkdir
+
+To list the system processes running - top / htop
+
+Manages system services and the systemd init system. Use it to start, stop, enable, disable, or check the status of services (e.g., systemctl status nginx). - systemctl
+
+Reports file system disk space usage. Administrative flags like df -h show readable breakdowns of free and used space on mounted drives. - df
+
+Estimates file space usage. Use du -sh * to quickly find out which specific files or directories are hogging storage space - du
+
+Configures and displays network interfaces, routing, and tunnels. It replaces the deprecated ifconfig command (e.g., ip a to show IP addresses) - ip
+
+Modifies file permissions and ownership. Essential for securing files, adjusting read/write access, and fixing application permission errors - chmod /chown
